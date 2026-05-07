@@ -3,7 +3,6 @@
 
 ## 🌟 人的梦想是不会结束的！
 
----
 
 ```text
      ██╗██╗   ██╗ █████╗ ███╗   ██╗     ██╗██╗   ██╗ █████╗ ███╗   ██╗
@@ -38,8 +37,6 @@
 idea -> design -> code -> debug -> ship
 ```
 
----
-
 ## Now
 
 - coding coding coding
@@ -47,7 +44,6 @@ idea -> design -> code -> debug -> ship
 - 记录技术文章和项目复盘
 - 梦想是每天 only 看动漫和 coding
 
----
 
 ## Stack
 
@@ -64,7 +60,6 @@ idea -> design -> code -> debug -> ship
 
 </div>
 
----
 
 慢慢写，慢慢变强。
 
