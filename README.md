@@ -66,22 +66,6 @@ idea -> design -> code -> debug -> ship
 
 ---
 
-## GitHub
-
-<div align="center">
-
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lala267&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lala267&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br />
-<br />
-
-![Profile Views](https://komarev.com/ghpvc/?username=lala267&style=flat-square&color=58a6ff)
-
-<br />
-<br />
-
 慢慢写，慢慢变强。
 
 </div>
