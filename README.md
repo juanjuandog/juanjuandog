@@ -1,34 +1,97 @@
-## Hi, I'm 卷卷 👋
+<div align="center">
 
-Java 后端方向在读学生，关注后端工程实践与 AI 辅助开发。
 
-目前主要通过个人工具类项目进行开发练习，重点放在需求拆解、功能实现、问题排查和持续迭代上。
+<img src="https://capsule-render.vercel.app/api?type=waving&height=165&color=gradient&customColorList=12,14,19,24&text=JuanjuanDog&fontSize=42&fontAlignY=36&animation=fadeIn&desc=Java%20Backend%20%7C%20AI%20Tools%20%7C%20Web%20Toys&descAlignY=60&descSize=16" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Hello%2C+world.;%E5%9C%A8%E5%AD%A6+Java+%E5%90%8E%E7%AB%AF%EF%BC%8C%E4%B9%9F%E5%9C%A8%E5%81%9A%E4%B8%80%E4%BA%9B%E5%B0%8F%E5%B7%A5%E5%85%B7;AI+Coding+%C2%B7+Browser+Extension+%C2%B7+Desktop+Pet)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=lala267&style=flat-square&color=58a6ff)
+![GitHub followers](https://img.shields.io/github/followers/lala267?style=flat-square&color=ff79c6)
+![Stars](https://img.shields.io/github/stars/lala267?style=flat-square&color=f1c40f)
+
+</div>
+
+---
+
+## Hi there
+
+我是 **卷卷狗**，在学习 Java 后端，也喜欢做一些 AI 工具、浏览器插件和有趣的小项目。
+
+---
+
+## Widgets
+
+<div align="center">
+
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lala267&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lala267&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br />
+<br />
+
+<img src="https://streak-stats.demolab.com?user=lala267&theme=tokyonight&hide_border=true" />
+
+<br />
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=lala267&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+
+<br />
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lala267&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 ---
 
 ## Projects
 
-### Web Timer
+<div align="center">
 
-网页时间记录工具，支持按日、周、月统计网站访问时长，并提供 Markdown 导出能力。
 
-### LuffyPet
+<a href="https://github.com/lala267/daily-signal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lala267&repo=daily-signal&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/lala267/free-video-speed">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lala267&repo=free-video-speed&theme=tokyonight&hide_border=true" />
+</a>
 
-桌面宠物计时器，基于 Tauri 构建，支持学习计时、本地记录与桌面端交互。
+<a href="https://github.com/lala267/hot100-daily-draw">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lala267&repo=hot100-daily-draw&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/lala267/LuffyPet">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lala267&repo=LuffyPet&theme=tokyonight&hide_border=true" />
+</a>
 
-### hot100-daily-draw
-
-LeetCode Hot100 随机抽题工具，用于辅助日常算法练习与刷题计划管理。
-
-### free-video-speed
-
-Chrome 视频倍速插件，支持网页视频播放速度调节，提升在线学习与视频浏览效率。
+</div>
 
 ---
 
-## Focus
+## Stack
 
-- Java 后端开发
-- AI 辅助编码实践
-- 个人效率工具开发
-- 项目化学习与工程迭代
+<div align="center">
+
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222)
+
+</div>
+
+---
+
+<div align="center">
+
+
+```text
+idea -> code -> debug -> commit
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=12,14,19,24" />
+
+</div>
