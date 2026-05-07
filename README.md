@@ -1,58 +1,34 @@
 ## Hi, I'm 卷卷 👋
 
-本科在读，主要方向是 **Java 后端开发**，同时关注 **AI Agent、RAG、MCP、AI Coding** 等工程化实践。
+Java 后端方向在读学生，关注后端工程实践与 AI 辅助开发。
 
-我目前主要在做三类积累：
-
-### Java Backend
-
-- Spring Boot / MyBatis / MySQL / Redis / RabbitMQ
-- DDD 分层、设计模式、状态机建模
-- 缓存设计、消息队列、分布式锁与接口限流
-
-### AI Engineering
-
-- Spring AI / RAG / MCP / SSE
-- Prompt Engineering
-- Agent 工具调用与多轮对话上下文管理
-
-### Personal Tools
-
-- 桌面宠物计时器
-- LeetCode Hot100 随机抽题工具
-- Chrome 视频倍速插件
-- 小型自动化与学习辅助工具
+目前主要通过个人工具类项目进行开发练习，重点放在需求拆解、功能实现、问题排查和持续迭代上。
 
 ---
 
-## Featured Projects
+## Projects
+
+### Web Timer
+
+网页时间记录工具，支持按日、周、月统计网站访问时长，并提供 Markdown 导出能力。
 
 ### LuffyPet
 
-A lightweight desktop pet timer built with Tauri and TypeScript.  
-It combines a desktop companion UI, study timing, and local persistence.
+桌面宠物计时器，基于 Tauri 构建，支持学习计时、本地记录与桌面端交互。
 
 ### hot100-daily-draw
 
-A daily LeetCode Hot100 problem picker for algorithm practice.
+LeetCode Hot100 随机抽题工具，用于辅助日常算法练习与刷题计划管理。
 
 ### free-video-speed
 
-A Chrome extension for customizing HTML5 video playback speed.
-
-### mini-ioc-aop
-
-A mini implementation of IoC and AOP for understanding Spring core principles.
-
-### group-buy-state-machine-demo
-
-A demo project for modeling group-buying transaction states and lifecycle transitions.
+Chrome 视频倍速插件，支持网页视频播放速度调节，提升在线学习与视频浏览效率。
 
 ---
 
-## Current Focus
+## Focus
 
-- Improving Java backend system design ability
-- Building AI Agent applications with real engineering constraints
-- Turning small ideas into usable tools through AI Coding
-- Writing technical notes and project summaries continuously
+- Java 后端开发
+- AI 辅助编码实践
+- 个人效率工具开发
+- 项目化学习与工程迭代
