@@ -1,66 +1,44 @@
 <div align="center">
-
-
-## 🌟 人的梦想是不会结束的！
-
-
-```text
-     ██╗██╗   ██╗ █████╗ ███╗   ██╗     ██╗██╗   ██╗ █████╗ ███╗   ██╗
-     ██║██║   ██║██╔══██╗████╗  ██║     ██║██║   ██║██╔══██╗████╗  ██║
-     ██║██║   ██║███████║██╔██╗ ██║     ██║██║   ██║███████║██╔██╗ ██║
-██   ██║██║   ██║██╔══██║██║╚██╗██║██   ██║██║   ██║██╔══██║██║╚██╗██║
-╚█████╔╝╚██████╔╝██║  ██║██║ ╚████║╚█████╔╝╚██████╔╝██║  ██║██║ ╚████║
- ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
-
-                         ██████╗  ██████╗  ██████╗ 
-                         ██╔══██╗██╔═══██╗██╔════╝ 
-                         ██║  ██║██║   ██║██║  ███╗
-                         ██║  ██║██║   ██║██║   ██║
-                         ██████╔╝╚██████╔╝╚██████╔╝
-                         ╚═════╝  ╚═════╝  ╚═════╝ 
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+juanjuandog+%F0%9F%91%8B)](https://git.io/typing-svg)
-
+  <img src="./assets/retro/welcome-header.gif" alt="Welcome to JuanjuanDog's GitHub profile" width="100%" />
+  <br />
+  <br />
 </div>
+
+**i love code**&nbsp;&nbsp;<img src="./assets/retro/typing-dog.gif" alt="a little dog typing code" width="104" />&nbsp;&nbsp;**and anime**&nbsp;&nbsp;<img src="./assets/retro/anime-tv.gif" alt="a colorful retro television" width="108" />
+
+<img src="./assets/retro/party-dog.gif" align="right" width="70" alt="a dancing party dog" />
 
 <br />
 
-## About
+<img src="./assets/retro/under-construction.gif" alt="always building" width="100%" />
 
-你好👋，我是 **卷卷狗**。
+<br />
 
-把一些小想法做成真实可用的工具。  
-学习后端开发，也会顺手做一些 AI、浏览器插件和提效小组件。
+你好，我是 **卷卷狗**。Backend-focused full-stack developer.
 
-```text
-idea -> design -> code -> debug -> ship
-```
+currently: coding, building, debugging, shipping <img src="./assets/retro/hot.gif" alt="hot" width="52" />
 
-## Now
+dream: 每天都能看动漫和 coding <img src="./assets/retro/hot.gif" alt="hot" width="52" />
 
-- coding coding coding
-- 做一些能提高日常效率的小工具
-- 记录技术文章和项目复盘
-- 梦想是每天 only 看动漫和 coding
+`idea → design → code → debug → ship`
 
+<br />
+<br />
 
-## Stack
+<img src="./assets/retro/counter.gif" alt="retro visitor counter" />
+<img src="./assets/retro/badge-java.gif" alt="Java badge" />
+<img src="./assets/retro/badge-spring.gif" alt="Spring badge" />
+<img src="./assets/retro/badge-go.gif" alt="Go badge" />
+<img src="./assets/retro/badge-ai.gif" alt="AI Agent badge" />
+<img src="./assets/retro/badge-anime.gif" alt="Anime badge" />
+<img src="./assets/retro/badge-web.gif" alt="Open Web badge" />
+
+<br />
 
 <div align="center">
-
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+  <strong>人的梦想是不会结束的！</strong>
+  <br />
+  <sub>慢慢写，慢慢变强。</sub>
 </div>
 
-
-慢慢写，慢慢变强。
-
-</div>
+<img src="./assets/retro/flames.gif" alt="retro animated flames" width="100%" />
